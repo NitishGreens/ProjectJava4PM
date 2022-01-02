@@ -12,4 +12,8 @@ public class Employee {
 
 	}
 
+	public void sub() {
+		System.out.println("sub");
+	}
+
 }
